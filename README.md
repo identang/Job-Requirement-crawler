@@ -10,10 +10,7 @@ This project is a Python script that scrapes job descriptions from LinkedIn job 
   - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
 
 ## Overview
 
